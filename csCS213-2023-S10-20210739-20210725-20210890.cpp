@@ -71,7 +71,7 @@ while(true)
     <<"13- Crop Image \n"
     <<"14- Skew Image \n"
     <<"S- Save Image \n"
-      << "0-Exit\n";
+    <<"0- Exit\n";
 
     cin >> order ;
 
